@@ -1,1 +1,1 @@
-# Vending_machine_prototype
+# Vending machine prototype
